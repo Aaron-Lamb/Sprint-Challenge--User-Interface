@@ -144,24 +144,55 @@ footer nav a {
     text-decoration: none;
 }
 .jumbo{
-    margin-left: 110px;
-    margin-bottom: 30px;
+    margin-left: 120px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .logo{
-    margin-left: 110px;
-    margin-top: 25px;
+    margin-left: 100px;
+    margin-top: 30px;
 }
+
 .navigation{
     display: flex;
     align-items: center;
 }
+
 nav a{
     margin-left: 40px;
-    margin-right: 30px;
+    margin-right: 40px; 
     text-align: center;
     text-decoration: none;
     color: black;
+}
+.jumbo-about{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+hr{
+  border: 1px dashed black;
+}
+.numone{
+    display: flex;
+}
+.numtwo{
+    display: flex;
+    margin-top: 50px;
+    padding: 10px;
+}
+.learn{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 125px;
+    padding: 10px;
+    margin-bottom: 5%;
+}
+h5{
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+p{
+    padding-bottom: 3%;
 }
 .teal{
     background: teal;
